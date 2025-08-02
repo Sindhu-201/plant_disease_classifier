@@ -1,0 +1,16 @@
+# Core libraries
+torch==2.5.1
+torchvision==0.20.1
+numpy==1.26.4
+pandas==2.2.3
+Pillow==11.0.0
+matplotlib==3.9.2
+plotly==6.0.0
+scikit-learn==1.6.1
+tqdm>=4.66.5
+
+# For web application
+streamlit==1.43.1
+
+
+https://www.kaggle.com/datasets/emmarex/plantdisease/data
